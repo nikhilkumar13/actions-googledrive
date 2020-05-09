@@ -31,7 +31,7 @@
 ## Example usage
 
 ```
-- uses: mkrakowitzer/actions-googledrive@master
+- uses: nikhilkumar13/actions-googledrive@master
   with:
     upload-from: ./tmp
     upload-to: IRL-L2-Support/platform-architecture-docs
