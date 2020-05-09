@@ -6,4 +6,4 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    image: "mkrakowitzer/actions-googledrive:${TAG:-latest}"
+    image: "nikhilkumar13/actions-googledrive:${TAG:-latest}"
